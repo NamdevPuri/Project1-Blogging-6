@@ -1,4 +1,4 @@
-# Project1-Blogging-6
+# Project1-Blogging-
 Blogging Site Mini Project Requirement
 
 Phase I
